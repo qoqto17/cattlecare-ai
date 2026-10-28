@@ -78,6 +78,7 @@ nav button.active,nav button:hover{color:#006400;border-color:#006400;background
 .news-alert-box{border:1px solid #e0cfac;background:#fffaf0;padding:15px 18px;border-radius:12px;margin:15px 0;color:#674921;font-size:12px;line-height:1.75}
 .news-alert-box p{margin:6px 0}
 .nav-alert-count{border-radius:99px;background:#ad4f13;color:#fff;margin-left:5px;padding:1px 6px;font-weight:700}
+.news-home-preview{display:flex;justify-content:space-between;gap:16px;align-items:center;background:#fff;border:1px solid #d4e4da;border-left:5px solid #006400;border-radius:13px;padding:17px 22px;margin:18px 0 30px}.news-home-preview strong{font-size:15px}.news-home-preview p{margin:5px 0 0}@media(max-width:650px){.news-home-preview{flex-direction:column;align-items:stretch}}
 </style></head><body><div id="root"></div>
 <script>
 const names=['종합 대시보드','개체관리','환경관리','급이·급수','건강·복지 관리','AI 분석','설비관리','작업명령','출하관리','탄소·메탄관리','방역·질병 이력','NEWS'];
@@ -103,7 +104,7 @@ const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const records=(name,id)=>data[name].filter(r=>(!id||r.id===id)&&(!r.date||(r.date>=start&&r.date<=end))).sort((a,b)=>(a.date||'').localeCompare(b.date||''));
 const searchBox=()=>'<form class="search" id="ask"><input id="q" placeholder="예: 오늘 1번 개체 메탄 배출량 알려줘" value="'+esc(query)+'"><button class="button">⌕ 검색·실행</button></form>';
 function cards(){const cards=[['등록 개체',new Set(data['개체관리'].map(x=>x.id)).size+' 두','개체관리'],['목걸이 모니터링',new Set(data['건강·복지 관리'].map(x=>x.id)).size+' 개체','건강·복지 관리'],['메탄 기록',data['탄소·메탄관리'].length+' 건','탄소·메탄관리'],['승인 대기',data['작업명령'].filter(x=>x.status==='승인대기').length+' 건','작업명령']];return '<div class="grid">'+cards.map(([a,b,c])=>'<div class="card" data-page="'+c+'"><div class="muted">'+a+'</div><div class="big">'+b+'</div><div class="muted">상세 보기 →</div></div>').join('')+'</div>'}
-function home(){return '<div class="hero"><div class="muted" style="letter-spacing:3px;color:#006400">YOUR SMART CATTLE ASSISTANT</div><h1>우사 운영의 모든 정보를<br><em>한 번의 질문으로.</em></h1><p class="muted">개체 성장부터 환경 디지털트윈, 반추시간과 메탄 배출까지.<br>자연어로 검색하면 해당 관리 화면이 열립니다.</p>'+searchBox()+'<div class="chips">'+['오늘 1번 개체 메탄 배출량 알려줘','3번 소 반추시간 분석해 줘','A동 온도와 팬 상태 확인해 줘','이번 주 보고서 만들어 줘'].map(q=>'<button data-query="'+esc(q)+'">'+esc(q)+'</button>').join('')+'</div></div><h2>가상 우사 현황 <span class="badge">DEMO</span></h2>'+cards()+historyPanel()+'<h2>빠른 관리</h2><div class="grid">'+['환경관리','건강·복지 관리','AI 분석','보고서'].map(n=>'<div class="card" data-page="'+n+'"><h3>'+n+'</h3><span class="muted">관리화면 열기 →</span></div>').join('')+'</div>'}
+function home(){return '<div class="hero"><div class="muted" style="letter-spacing:3px;color:#006400">YOUR SMART CATTLE ASSISTANT</div><h1>우사 운영의 모든 정보를<br><em>한 번의 질문으로.</em></h1><p class="muted">개체 성장부터 환경 디지털트윈, 반추시간과 메탄 배출까지.<br>자연어로 검색하면 해당 관리 화면이 열립니다.</p>'+searchBox()+'<div class="chips">'+['오늘 1번 개체 메탄 배출량 알려줘','3번 소 반추시간 분석해 줘','A동 온도와 팬 상태 확인해 줘','이번 주 보고서 만들어 줘'].map(q=>'<button data-query="'+esc(q)+'">'+esc(q)+'</button>').join('')+'</div></div><h2>가상 우사 현황 <span class="badge">DEMO</span></h2>'+cards()+homeNewsPreview()+historyPanel()+'<h2>빠른 관리</h2><div class="grid">'+['환경관리','건강·복지 관리','AI 분석','보고서'].map(n=>'<div class="card" data-page="'+n+'"><h3>'+n+'</h3><span class="muted">관리화면 열기 →</span></div>').join('')+'</div>'}
 
 let recentKey=scopedKey('recent'), favKey=scopedKey('favorites');
 function loadSaved(key){try{let r=JSON.parse(localStorage.getItem(key));return Array.isArray(r)?r:[]}catch(e){return []}}
@@ -174,6 +175,12 @@ function selectedNews(){
  .filter(x=>!newsUrgentOnly||x.category==='disease')
  .sort((a,b)=>newsRank(b,loc)-newsRank(a,loc)||(b.published||'').localeCompare(a.published||''))
  .slice(0,36)
+}
+
+function homeNewsPreview(){
+ let loc=farmLocation(),a=Array.isArray(newsFeed?.articles)?newsFeed.articles:[],now=Date.now();
+ let n=a.filter(x=>x.category==='disease'&&x.published&&now-new Date(x.published).getTime()<72*3600000&&now>=new Date(x.published).getTime()).filter(x=>!loc.province||[x.title,x.region].join(' ').includes(loc.province)||loc.city&&[x.title,x.region].join(' ').includes(loc.city)).length;
+ return '<div class="news-home-preview"><div><strong>NEWS · '+esc(loc.city||loc.province||'전국')+' 소 관련 뉴스</strong><p class="muted">'+(n?'최근 72시간 지역 연관 질병 보도 '+n+'건 · 공식 확인 필요':'등록된 우사 지역의 축산 뉴스와 방역 관련 기사를 확인하세요.')+'</p></div><button type="button" class="button" data-page="NEWS">지역 NEWS 보기 →</button></div>'
 }
 function newsPage(){
  const loc=farmLocation(),items=selectedNews(), all=Array.isArray(newsFeed?.articles)?newsFeed.articles:[], emergency=all.filter(x=>x.category==='disease').length;
