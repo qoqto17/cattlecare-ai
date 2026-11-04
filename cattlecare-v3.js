@@ -13,7 +13,7 @@ const groups=[
 {label:'환경·설비',pages:['환경관리','설비관리','센서 시뮬레이션']},
 {label:'건강·방역',pages:['건강·복지 관리','방역·질병 이력']},
 {label:'분석·비교',pages:['AI 분석','관측·품질센터','통합 분석·보고서',PEER]},
-{label:'운영·보고서',pages:['작업명령','보고서',GUIDE]},
+{label:'운영·보고서',pages:['작업명령','보고서']},
 {label:'NEWS',pages:['NEWS']}
 ];
 const classes='cattle-v3';
@@ -177,11 +177,11 @@ return '<details '+(current?'class="v3-active"':'')+'><summary class="'+(current
 }).join('');
 nav.querySelectorAll('[data-v3-page]').forEach(b=>b.addEventListener('click',()=>go(b.dataset.v3Page)));
 }
-function go(dest){page=dest;query='';edit=-1;render();window.scrollTo(0,0)}
+function go(dest){if(dest===GUIDE){openGuideFromUsage();return}page=dest;query='';edit=-1;render();window.scrollTo(0,0)}
 function banner(){
 const main=document.querySelector('main');if(!main||main.querySelector('.v3-global-banner'))return;
 const box=document.createElement('div');box.className='v3-warning v3-global-banner';box.innerHTML='<strong>교육용 DEMO 데이터가 포함되어 있습니다.</strong> 실제 농장 관리에 사용하기 전 본인 데이터를 입력하세요. <button type="button" class="subbtn" id="v3GuideShortcut">실제 데이터 연결 방법</button>';
-main.insertBefore(box,main.firstChild);box.querySelector('button').addEventListener('click',()=>go(GUIDE));
+main.insertBefore(box,main.firstChild);box.querySelector('button').addEventListener('click',()=>openGuideFromUsage());
 }
 function attachV3(){
 document.querySelectorAll('[data-v3-page]').forEach(b=>{if(!b.closest('header'))b.addEventListener('click',()=>go(b.dataset.v3Page))});
@@ -205,6 +205,44 @@ try{const text=await file.text();const result=doImport(text,cat);importSummary='
 catch(e){alert('가져오기 오류: '+String(e.message||e))}
 });
 }
+/* The data connection guide lives inside the top-right usage dialog. */
+const oldShowUsageV3=showUsage;
+function openGuideFromUsage(){
+ showUsage();
+ document.getElementById('v3UsageGuideTab')?.click();
+}
+showUsage=function(){
+ oldShowUsageV3();
+ const overlay=document.getElementById('usageOverlay');
+ const dialog=overlay?.querySelector('.usage-dialog');
+ if(!dialog || dialog.querySelector('#v3UsageTabs'))return;
+ dialog.style.width='min(900px,96vw)';
+ const list=dialog.querySelector('ol');
+ if(!list)return;
+ const tabs=document.createElement('div');
+ tabs.id='v3UsageTabs';
+ tabs.className='actionrow';
+ tabs.innerHTML='<button type="button" class="button" id="v3UsageBasicTab">기본 사용법</button><button type="button" class="button secondary" id="v3UsageGuideTab">내 데이터 연결·설명서</button>';
+ dialog.insertBefore(tabs,list);
+ const guide=document.createElement('section');
+ guide.id='v3GuideInsideUsage';
+ guide.hidden=true;
+ guide.innerHTML=guidePage();
+ list.after(guide);
+ // Hide the former brief footer while the complete guide is displayed.
+ const footer=[...dialog.children].filter(el=>el!==tabs&&el!==guide&&el!==list&&el.tagName==='P');
+ const setView=which=>{
+  const showGuide=which==='guide';
+  list.hidden=showGuide; guide.hidden=!showGuide;
+  footer.forEach(el=>el.hidden=showGuide);
+  dialog.querySelector('#v3UsageBasicTab').className=showGuide?'button secondary':'button';
+  dialog.querySelector('#v3UsageGuideTab').className=showGuide?'button':'button secondary';
+  if(showGuide)attachV3();
+ };
+ dialog.querySelector('#v3UsageBasicTab').addEventListener('click',()=>setView('basic'));
+ dialog.querySelector('#v3UsageGuideTab').addEventListener('click',()=>setView('guide'));
+};
+/* Legacy deep links continue to open the guide in the usage dialog. */
 const originalReportV3=report;
 report=function(){return page===PEER?peerPage():page===GUIDE?guidePage():originalReportV3()};
 const originalRenderV3=render;
