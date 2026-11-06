@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-05T23:36+00:00",
+  "updated_at": "2026-11-06T06:34+00:00",
   "articles": [
+    {
+      "title": "김세종 강원도의원 \"횡성한우도 아프리카 가는데…아직도 업무협약만\" - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Fd25nREJuVEdRZDFlbUpWLTFBVk8xTzhsTUNlS3drd2VwamxTM2RiVTRlSk9kVUxIWEJTYmtSc0ZnVXdCVEtyVGJ4emFFanE2SFM0ZEZBeXhxYlNRU0hnZUNQa280Z2gxX0tz?oc=5",
+      "publisher": "프레시안",
+      "published": "2026-11-06T05:26:49+00:00",
+      "region": "강원특별자치도",
+      "category": "general"
+    },
+    {
+      "title": "부평구청소년수련관, 청소년운영위원회·공연창작소 지금과 창작극 ‘각저소년전’ 무료 공연 개최 - 뉴뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FemZZT2RUeU9XWVVua2dBYVY5Mk5tcFpPQzdNOHdKMWU2aWs0NkxMVnBCMmt3ZXVSb3VORWZyck5GQ1lnWVNzNENmcXhtVFU1S1BIYjZReVdLRWcwRUI2b2psN3FNQQ?oc=5",
+      "publisher": "뉴뉴스",
+      "published": "2026-11-06T04:47:37+00:00",
+      "region": "부산광역시",
+      "category": "general"
+    },
+    {
+      "title": "천연기념물 제주흑우 1593두로 증가…8일까지 흑한우 박람회, 최대 50% 할인 - 제주뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJamdsd3Q5b05aZnExUW1wVjZZQ0hLbURSVFRqUDBIWDVDZlpsN2FQX0UwdFY4RGZXem9OaS1RaWFzZjM0d3VrMmp3NHhxYmJ4VnpmaEg2YTRqbkF3clJIZlVwQkFQSl95aXfSAW5BVV95cUxPQ1RnZTRud01sMVN2MldPYUo0SG1sajIycllxaVBuNkdjdVpYNXplcWxZeVpWNE1BZU5DbjFLaDFYM0xTTm02TmxhUFg4SzZiODVkY3Nhc2J4MlpuM1dVbG11N3JnZnN1UHp4RzVYdw?oc=5",
+      "publisher": "제주뉴스",
+      "published": "2026-11-06T01:35:21+00:00",
+      "region": "제주특별자치도",
+      "category": "general"
+    },
+    {
+      "title": "순천시의회, 꿀벌 감소 따른 양봉농가 지원책 논의 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vTmRhRE9Gb2daNEMxVWR5TmYwVnE0UnNQMi1fTDV4aWI0Q2xiaXlWUFlnSVM1a0Q4WEhQN2hfN19MY3NFLV9vc08xY1NMYlpSYzR3dzcycEctY0RkVXk5Z1U1OTM?oc=5",
+      "publisher": "매일일보",
+      "published": "2026-11-06T01:29:19+00:00",
+      "region": "서울특별시",
+      "category": "general"
+    },
+    {
+      "title": "토스인슈어런스, 대구 오피스 개소…6대 광역시 거점 확보 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zdzdBb3l2VXFOUHlhVnd6X2ZMY09jeWQ3YkJtY3Y5dWJWM29vZTB2bVBsa2NFMkFLRzlNSC1XYktrOEJaZGFRWWFLYUdrNWhTOFBiOGNuTHFJNDZuRVZQVjFtQ3dhMlNaRnVRRUhfTkY?oc=5",
+      "publisher": "신아일보",
+      "published": "2026-11-06T01:24:28+00:00",
+      "region": "대구광역시",
+      "category": "general"
+    },
+    {
+      "title": "“천연기념물 제주흑우 가치 알린다”…흑한우 박람회 개막 - 채널제주",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlaEJBS0gxQ2tLcWdNb3dGX0wzNnQ0cktsQXlubTVGWlJrU3Y3OWVnQm9wYkxLeFlwS09hMDZxdzdfSEczRWx2aWtqS0dqU0xpWFJvMEIzT0czU2J4b2dwXzZ4S1hEMG54WVV1NmZXbw?oc=5",
+      "publisher": "채널제주",
+      "published": "2026-11-06T00:25:47+00:00",
+      "region": "제주특별자치도",
+      "category": "general"
+    },
     {
       "title": "장흥군, 럼피스킨병 추가 확산 차단 총력 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51NHVUUHpGZ3RKREk2WlJJeExVZmo2TmxsS2NwVFFGYUpOTUVSQ1B5SnZhd3RWZFFibF9nbkFwMlcyV3QzMDltOS1VVFNFNWxCdjF3NTc0el9mTWVYTlgwb3lkUDc?oc=5",
@@ -10,20 +58,20 @@
       "category": "disease"
     },
     {
-      "title": "천연기념물 제주흑우 가치 알린다…흑한우 박람회 개막 - 뉴스N제주",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GMm9IX3VzZDctZWRRV1RyRUZjUlBpbVJoS3hhVGM2V3NkOGcwcHk1NzB4b3RTNTltNWxVdFdkU19NTmVic3dEOV9wUzY2MmNYeGFqOFExTkw2R2Y2QjA2VHhVWnZtWGM?oc=5",
+      "title": "제주축산농협 조합원 민들레 축산 양영기 대표, ‘제22회 전국한우경진대회’유전체 유전능력 부문 우수상 수상 - 뉴스N제주",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BalpWY292cE9CeHdoUnM5YWhIWDJya1Vvenp0UDVfMFVxMW9fT0tlU2I5cVpzSzAwdWs5OThoR3Nvd1d0MDNYUWE5MFFMMm1zUDgxQVNOMUx4QUJybTJIQllrS1VYMExwR2IxYg?oc=5",
       "publisher": "뉴스N제주",
-      "published": "2026-11-05T16:34:13+00:00",
+      "published": "2026-11-05T16:00:21+00:00",
       "region": "제주특별자치도",
       "category": "general"
     },
     {
-      "title": "세종테크노파크–한국전자기술연구원, 세종 소·부·장 산업 육성에 힘 모은다 - 충청메시지",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMWR1dHEwVWl0WVRfUW5JUFJVUFVmR1lpVWVuTTl6UUdwVW14OWNja09sX01xY21QU0N1RWlpdnkwNTZCQWp6TFJUX1JmLW5uSE5GdUV4TENGakExcW1sT2x0Z0FLZjJxR2Y0?oc=5",
-      "publisher": "충청메시지",
-      "published": "2026-11-05T13:11:32+00:00",
-      "region": "세종특별자치시",
-      "category": "general"
+      "title": "경남 구제역 백신 항체양성률 소 98%·염소 91%…자가접종 농가 방역 허점 없나 - 진주인터넷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYU5VU250RzNaaW4xZGpZdGZCSmh3am00M0tpVDhteFFkWnpKaDdSMTg4eXZzWnZhQUFqQm5iNjRVbm1DSmdIdzB1MmRMTG5LcFVDcXNlVG9WbmFZTEZCcHdFYTZlWlhLWmc3cml2UDlxQQ?oc=5",
+      "publisher": "진주인터넷뉴스",
+      "published": "2026-11-05T13:00:05+00:00",
+      "region": "경상남도",
+      "category": "disease"
     },
     {
       "title": "세종테크노파크·한국전자기술연구원, 세종 소·부·장 공동 R&D 업무협약 - www.sejongmedia.com",
@@ -42,19 +90,19 @@
       "category": "general"
     },
     {
-      "title": "이행도 전남광주통합특별시의원 “한우·염소농가, 가축 이동제한 피해보상 사각지대” - 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyT0ZLNWdfRks4b1VsUlhOQnNmMnZqLTlhbVJpOVBBalk5WW92Z1k0bElWZW9GQnBiYTNCRVlxQmhIUElONHFfMVhVVXJjRHRTTjN2eWlhNzF6TnYtUzA4YTJLdy1BTmdVc09xdjUxWWw4UQ?oc=5",
-      "publisher": "웹이코노미",
-      "published": "2026-11-05T09:02:52+00:00",
-      "region": "서울특별시",
-      "category": "general"
-    },
-    {
       "title": "경기도, 전국한우경진대회’ 종합 준우승...우수한 한우 개량 성과 입증 - 한국농어민신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcXkwX0U3d0xPZjg1Z0g4b0lFbzRISXYtd1gyZF9uMFJKYWNKenM5TnFrUUVkRS04SVBFRUZ2cF9PNUV1c0tzTkc0RWJMSmtFNVdhNWlCc3R5dW9CNXdIc1dUVnQzV2l4OGxhYQ?oc=5",
       "publisher": "한국농어민신문",
       "published": "2026-11-05T08:50:08+00:00",
       "region": "경기도",
+      "category": "general"
+    },
+    {
+      "title": "세종테크노파크–한국전자기술연구원, 세종 소·부·장 산업 육성에 힘 모은다 - 수원인터넷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lTTJfVUpSbS1YdmJvaTVxWTRubndadDk1dHBQSnUycVY3OFVLc3BVU0lEM012eWNpTlIyZGV3X1hxNTg?oc=5",
+      "publisher": "수원인터넷뉴스",
+      "published": "2026-11-05T08:26:00+00:00",
+      "region": "세종특별자치시",
       "category": "general"
     },
     {
@@ -114,6 +162,14 @@
       "category": "general"
     },
     {
+      "title": "이행도 전남광주시의원 \"소·염소 출하제한 손실 구제기준 없어\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NWTJYN0cyb3FCRW5WNUdfZnFnaUNreGMzZ3FPT1IwTGVNNExuTnl6aWpFczQxc2RFR2ZUVDBIQ0NVa1VfMGxoNFc3eFhyRGxwY0pJaFRNTnBtMTDSAWBBVV95cUxNUHl4REloLTFBb1NKNk4yY3dmZ2FvMTRZaC12RE80aXlNUmZLLXBtdHNkZFJNOTg0aGV1OC1CRWh6ZGJMaVdaTVpmalpEeUdTRHhlZlBlTkFfTFJENnRzUDg?oc=5",
+      "publisher": "연합뉴스",
+      "published": "2026-11-05T05:11:11+00:00",
+      "region": "서울특별시",
+      "category": "general"
+    },
+    {
       "title": "“구제역 제로 경남, 빈틈없는 방역으로 지킨다” 경남도, 구제역 일제접종 후 항체 모니터링 검사 완료 - 도민연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZzl5RUh1aHdqUUhqLXV0OFZDWE5lN2ItVHVmNm1Ka3U5c0VUZkpsVXZvNUhyems2ZVd5MlZFaUN6RzNYMlFBQ25JanJEUHpDaDJ6MHN6R0FkdjNaejFmZHpvQ05MYnVoWmc?oc=5",
       "publisher": "도민연합뉴스",
@@ -128,6 +184,14 @@
       "published": "2026-11-05T03:41:44+00:00",
       "region": "서울특별시",
       "category": "general"
+    },
+    {
+      "title": "이행도 전남광주시의원 \"소 럼피스킨 피해농가 보상·방역대책 강화해야\" - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QcnlOMU1TTlRmTENTc1RhQ09WRDhMRThkZUZ5SDVJU3IyRUZrR1VYMnBUUXl3Y3RJUWk4TW5aenpfVDhCUnhjc3JtbzgzWUZvX3o2Rk93R2l1X3g2eTNkM3lzMjQ1eDVCalBmV2hsd9IBc0FVX3lxTFAtQ1VjNXVMUkkxZkdpUGlzZFgzWlFaUTFHdUdvYS01ZnEzcC1VdlcxUmNQR0NYd1RMUFBIam9EYm9jUm11VEhNN1VWSGZXaTRCVElMRURBMC1aWC1Pd3oyNUNKdHA1ZmFUcXVxeDRiQjhNcjQ?oc=5",
+      "publisher": "뉴스웍스",
+      "published": "2026-11-05T03:38:15+00:00",
+      "region": "서울특별시",
+      "category": "disease"
     },
     {
       "title": "“구제역 제로 경남, 빈틈없는 방역으로 지킨다” 경남도, 구제역 일제접종 후 항체 모니터링 검사 완료 - 문화매일신문",
@@ -186,27 +250,11 @@
       "category": "general"
     },
     {
-      "title": "이행도 전남광주통합특별시의원, “소 럼피스킨 피해농가 보상·방역대책 강화해야” - 경남도민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rUzJHSEQ1ZjJNMUpUM01qWWRNRjhGTFIwbWpvV09vb3B2Y1NUVEtUNEZnWG9GSG9SYU5nSlBsbjJqQXRHbnJUZG1ablp3VzB5MzhHbWJ1UjlpaG5JemdqOGJXZw?oc=5",
-      "publisher": "경남도민뉴스",
-      "published": "2026-11-05T01:10:28+00:00",
+      "title": "aT, 프리미엄 한우 우수성 홍보 - 농축유통신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zcVg0anN0d2F5b2dEVXFpS3dhWlpUT0daMGNtX3FIX2tDb1hOQlpwRzNSeEM4UzNPOXl5SWJaTFNmcnRPY1VSZ1Vud1dnTWZUZm51cmNxLW44ZUduZ0tTSTNIXzQwNnR3?oc=5",
+      "publisher": "농축유통신문",
+      "published": "2026-11-05T00:45:00+00:00",
       "region": "서울특별시",
-      "category": "disease"
-    },
-    {
-      "title": "화장품 사러 약국·다이소·배민 간다…뷰티 유통 공식 바뀐다 - 스타패션",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mcHpwaWpocEVPdEtCazEwVkRjYWx6cFpXYUtJa2FhQzVHVGxnWE1iRjBleWxnc0hxWTZiMWxLcHdjQ0JrRFBMMDM4cXdjRUItbUhLRzlPdWx3aC1hNlNR?oc=5",
-      "publisher": "스타패션",
-      "published": "2026-11-05T01:05:00+00:00",
-      "region": "서울특별시",
-      "category": "general"
-    },
-    {
-      "title": "제주흑우 가치 알린다…흑한우 박람회 5일 서귀포서 개막 - 서귀포신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kV2VVMTR6ZmpoMk5oS1Y5eFZFOFBaOVlFRWVXdjFZSlhZZTg2V2ZtRnpnTFYwaEFJVXdMRUxMaTFDdS1VSDU2Mk5VZ25zMjJXM19Mb0QyWEVXbjllTTY5ZlMyaS0zNkhwZ2xLcXhn?oc=5",
-      "publisher": "서귀포신문",
-      "published": "2026-11-05T00:46:40+00:00",
-      "region": "제주특별자치도",
       "category": "general"
     },
     {
@@ -234,6 +282,14 @@
       "category": "general"
     },
     {
+      "title": "동원홈푸드 금천미트, 16년 연속 대통령상 한우 낙찰 - 팝콘뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bjNTVlcwMU12bGRJVTZ2bk96WUcwWFhjSDBBQjJTV196R09meFFsMHN5UGl6c3p1TkUwLW1iUGVOY0RsVlM1LXB0Mk9qNnUyYnBVR1Z2NWU4aE5QUHRaYVdobmJrSlFJUXB4a0J6Y9IBckFVX3lxTE1xTTJZekZsRUdPa2R6d3RyczJtZ0NkQnVrZEhPRWFqMjlfOWJGdmllb3MwV3dncmR1Zi1FMFY2TTZSZTFXU29xUU1xOUd1cEtoUzh0ajVVQ1FGTzFfd0wwTUdRY3p1cFJ1YkczOFpYRW1qZw?oc=5",
+      "publisher": "팝콘뉴스",
+      "published": "2026-11-05T00:23:32+00:00",
+      "region": "서울특별시",
+      "category": "general"
+    },
+    {
       "title": "강명균 제주도의원, 5일 제주흑한우 브랜드 박람회 참석…제주 축산업 경쟁력 강화 응원 - 뉴스N제주",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PbXE3TGVBSU5SdHZaQVZ1VFM4V0ozNW8tV0x1TkNxZWlRN1FqNllXQ1hyczVpcUxqRFJMcUViNEl1YmhxdWY0cEVYcl9fZzR0dHJUX25KMDFwQXN3V3NpMmdYVVEwUlBGd2V1Yg?oc=5",
       "publisher": "뉴스N제주",
@@ -247,6 +303,14 @@
       "publisher": "이뉴스투데이",
       "published": "2026-11-04T12:18:16+00:00",
       "region": "충청북도",
+      "category": "general"
+    },
+    {
+      "title": "농촌진흥청, 한우농가 찾아 정보통신기술 활용 현장 살펴 - 저널25방송",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01dWQtLTVIT2h1Q3VYQkY0SE91ZHl2ckRIMUJObkM5RDBKamJOOWFMWXFCY0Vrc2lPczVndHZUczN1bE9JYk5EMC14bmc5eVBOdzQ4OXJmTTY1TnBvSUg3NFI4eGRCS2k0NkVXMw?oc=5",
+      "publisher": "저널25방송",
+      "published": "2026-11-04T10:55:48+00:00",
+      "region": "전북특별자치도",
       "category": "general"
     },
     {
@@ -386,6 +450,14 @@
       "category": "general"
     },
     {
+      "title": "\"전북 한우 우수성 입증\"…전국한우경진대회서 우수·장려상 - 전민일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3amxvYnpoSkRielktcE1pbkJreXQ4Z1FVQW5zU1ZWQUlGdVZoSnVOYy1teEg2RE9fbjhEUkJzdFRTTnRzbGhIcmgxN1lFOGhzRFhtbHdmdFhuRW1Vb0lxbmk0N3hEVURPYmdZ?oc=5",
+      "publisher": "전민일보",
+      "published": "2026-11-03T07:48:16+00:00",
+      "region": "전북특별자치도",
+      "category": "general"
+    },
+    {
       "title": "경북 한우, 전국한우경진대회 지자체 부문 2위, 농가 3곳 수상 - 경북뉴스",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DbU9vVUZfVG9laVc4NWw5QjZSVmthN25IRDV0REVreTNzMjA4Y1Y1MnhpZWIwczVJcWpUV2dnV0tickx2bERpQldHREJiUXY2MVhpd2lESDBzQmFxeEgtRnNOcElPSnk2a2hVRzAtdWRLMVV0MS1SblozckU?oc=5",
       "publisher": "경북뉴스",
@@ -394,11 +466,11 @@
       "category": "general"
     },
     {
-      "title": "농협사료, 제22회 전국한우경진대회에서 대통령상 포함 10개 상 수상 쾌거 - 로컬세계",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOQmswUXZtb0MyNXFTdUlqSi00Y3ZNTFpmZlUwWlJmMDhDTFpESy1qOGdtTTBoQjRPVkNwYkdXd0Z5bGF5VlV3M0I0eFF5YkI3dUZJZTFmR1HSAVhBVV95cUxQTkJrMFF2bW9DMjVxU3VJakotNGN2TUxaZmZVMFpSZjA4Q0xaREstajhnbU0waEI0T1ZDcGJHV3dGeWxheVZVdzNCNHhReWJCN3VGSWUxZkdR?oc=5",
-      "publisher": "로컬세계",
-      "published": "2026-11-03T06:57:31+00:00",
-      "region": "부산광역시",
+      "title": "영천 공동축제 10만명 방문···와인·한우 매출도 증가 - 디트NEWS24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hcXFxbVVaTE1pbE1sVXB6SmJ1U0NtQy13N2x6eThseXdBTE1mWjI3SVlnMmNsaHE2YnBXS2NUVVA0ZGhFdlZtYk5TNVNtYUdubnlEMi0tYVFTRFZBc2JwVkZxNU02VGNwUUJN?oc=5",
+      "publisher": "디트NEWS24",
+      "published": "2026-11-03T06:24:29+00:00",
+      "region": "대구광역시",
       "category": "general"
     },
     {
@@ -474,35 +546,11 @@
       "category": "general"
     },
     {
-      "title": "[추억 복원소] 열두 고개에 깃든 보따리 인생 - 경북 봉화 | KBS 261103 방송 - 대한민국 대표 공영미디어 KBS",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQN1d3Z3A5MzZBOTk2S0xnSmdHRVhuNFhkR3JhaVI3UXhLMkIzOS1hTjI1QWdtUHhURUFHUmdzQ2RQSkZlUFpmeVFaTjVaQ3JtdmdRSE52ckQtMFNEV0lOVmczOEdLRTFvaTFVb2tpVUlyZENMS0VUVmNKRU9lUzhCR0Fkbkp0NGlDd1lOMnF2dGRqVExrRU9DZ0VGMHhqSmZ6RnF6TWV1cTBxTEctdmRnMmMxYkdsWDNReGIzYjVZeW9KbG1meUJkSGZlNmFlQjF1V2plTDVnYWhVeGVrM0J4QWpfSFJxNEdVSXBLVnFoU2J4R0ExaExDYW1qTGRmSmM1UUY5YUVGdU83UUFTN1EyM3loQWFTazVEbWR0MU5NZDRkWFd4Yk5YQ3hfU01nMHNoWnFBdXh1cUJMZGZLTDk3VA?oc=5",
-      "publisher": "대한민국 대표 공영미디어 KBS",
-      "published": "2026-11-02T15:00:00+00:00",
-      "region": "인천광역시",
-      "category": "general"
-    },
-    {
-      "title": "전북교육청, 한우급식 통해 학생 건강과 한우 소비 촉진 - 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4b0U5bk1RcndjRjlPbWxiVUZoSGpCdkFCX1JWbEdxdkNLUFBaMmZrclIyZzhDOElJV0Z3aTZvcFJQMmJUclNCRGUtOGtXWmo4UHh5cnREVDhOajVnb3JyODhYMGdiTUVzZW1qenItdlladw?oc=5",
-      "publisher": "웹이코노미",
-      "published": "2026-11-02T11:52:12+00:00",
-      "region": "전북특별자치도",
-      "category": "general"
-    },
-    {
       "title": "골도 보고, 흑한우도 굽고... 제주SK, 경기장 밖에 ‘맛있는 승부’ 차린다 - STN SPORTS",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wcG9ObW5JWWF0NVRtQnRmRXJ4SjN3U1J2Q1hFbGlGbUVzYWpadGZPazhuV19vTGNtSlRBWVlFaE1SSllTdC1zczN5WWFrckQzbFNwZnlsTVFoN1hnZWpSZWRwTDd0VkJmMnE0dWFsdw?oc=5",
       "publisher": "STN SPORTS",
       "published": "2026-11-02T10:14:02+00:00",
       "region": "제주특별자치도",
-      "category": "general"
-    },
-    {
-      "title": "전북특별자치도교육청, `한우급식으로 학생 건강 지키고, 한우 촉진 돕는다` - 케이에스피뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPaVBRc0tSd3IwOFNfajJDZUVheTFSV1E1bmZEbk1MUG9BMmgyWWQtbkE0ZExXVzB5Nm9sM1lWR1NGSlVOMlE?oc=5",
-      "publisher": "케이에스피뉴스",
-      "published": "2026-11-02T09:39:00+00:00",
-      "region": "전북특별자치도",
       "category": "general"
     },
     {
@@ -522,30 +570,6 @@
       "category": "general"
     },
     {
-      "title": "전국 최고 명품 한우 입증! 포항시, 전국 한우경진대회 최우수상 쾌거 - 한국현대미술신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUlVIRktFYnRmZzEyRTBfT04yd0EwMHZINjAwcklyOE9QOVlUSGxBOWQzZ1NaZndJbU9xaEtWTTNfekdGRFl3M0dvWjJiMGNrS0praXRSbS1vUQ?oc=5",
-      "publisher": "한국현대미술신문",
-      "published": "2026-11-02T07:11:02+00:00",
-      "region": "충청북도",
-      "category": "general"
-    },
-    {
-      "title": "전북 학교 80곳에 한우 1.47톤 공급…학생 1만35명 급식 지원 - 베타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wM202NGxQOXRRS1dNSzF6LXZXQ2NzT09uUHUyem9lclNSN183N256c2d6SEVLZXdFem9qNVBwODBlSzktcW1qbm9DNFpLLUhNVUZfelROMDBJNkFaRm9mQzhKZ2k?oc=5",
-      "publisher": "베타뉴스",
-      "published": "2026-11-02T06:59:10+00:00",
-      "region": "전북특별자치도",
-      "category": "general"
-    },
-    {
-      "title": "\"학교 급식에 1+등급 명품 한우가 듬뿍\"…전북 학생 1만 명 '한우 맛 체험' 함박웃음 - 더펜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fMzlVMWRYcl9feU5DN19rRWpaTENMQm5wZUFvOURRaUdYbjFJTFlfQ2lwMWZtMkx0Y2dvSFVxNmM4d0pCaGRrTHFNeDEtZ2Y3RDlKdGVGektnTE9oSEJsTlk2MA?oc=5",
-      "publisher": "더펜뉴스",
-      "published": "2026-11-02T06:32:12+00:00",
-      "region": "전북특별자치도",
-      "category": "general"
-    },
-    {
       "title": "전북자치도 80개교 급식에 ‘1+ 한우’ 오른다 - 전북도민일보",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWRPYVpXam5za2hwUHFjekFNOUxRT0VDenJGYlFqNjdGTWFiR3Q2d3VTT1g1Q3I5TEhlSkNhczJDN2NBYmFxcHpxQTRGeHJoUFZhUWpHRzlPdXpCd1FBWFV3YklRVzIwMF9HdktoODJycWIwYkxxX3YwaHRZZ05jN2tQT2FoSm8?oc=5",
       "publisher": "전북도민일보",
@@ -554,18 +578,18 @@
       "category": "general"
     },
     {
+      "title": "구제역 백신 맞았으니 끝?…정선군, 항체 검사 착수 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTmljZWFxd09May1nUVo4c3kzWXY4RmVaTXQ5NzVCaVNYSnlzd2NtMUlLdjBERm1LdVpqUDdVVXMwcEl2d2F0Vk96Z3gzSFRHTFByc1JKRDJKakMwMjFKZklIS25adDFvUVhz?oc=5",
+      "publisher": "프레시안",
+      "published": "2026-11-02T06:05:00+00:00",
+      "region": "강원특별자치도",
+      "category": "disease"
+    },
+    {
       "title": "전국한우협회 강원도지회, ‘대한민국이 한우 먹는 날’ 행사 개최 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rOF9sX09pd1dIeV9INl92MVE3cDNEeGFtSVZRU2RjclNmdDFIUWgzaTJtbkNJN2x6TGpMWS0yb0VqaFhzbzJCbTNrcWVOUVdlYXBsMjE4MzRQcGVFblhEejk1NldKNlIza1hRUA?oc=5",
       "publisher": "농수축산신문",
       "published": "2026-11-02T05:29:20+00:00",
-      "region": "강원특별자치도",
-      "category": "general"
-    },
-    {
-      "title": "평창영월정선축협, 전국한우경진대회 금상…유대환 조합원 대통령상 영예 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BcVhLVFZGQ3kxSDZxbmZyZ0pEdlBKQ2NTTDRrWVNoODBQY05fVkdSWDduUW9PeXIyTGJvYzJiRzNGQ1hhdjR1YzZMQ00ya3NvOXlTR1BSaFVVaWF1WmZaSzM4cUhoMGI2UkRSdw?oc=5",
-      "publisher": "농수축산신문",
-      "published": "2026-11-02T05:28:33+00:00",
       "region": "강원특별자치도",
       "category": "general"
     },
@@ -586,14 +610,6 @@
       "category": "general"
     },
     {
-      "title": "강원도, 2026년 전국한우경진대회 지자체 종합우승 달성 - 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oYm1LZ2ZaVkpCZFl4bV9fYjRyYlpkNnE5N1E5X1pxM3IyOTJUR2lUS2MyenNYcjNXdFhLRjlqTGhYdjZPYlBqT0ptNV9MUGdITmVQY216cUpuUFdxMlIwXzdqbVY2V0otbjZV?oc=5",
-      "publisher": "일간투데이",
-      "published": "2026-11-02T04:22:14+00:00",
-      "region": "강원특별자치도",
-      "category": "general"
-    },
-    {
       "title": "가평군, 전국한우경진대회 종합 챔피언 등 3관왕 달성 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56NU9QSjcwQXV0Qm96N2FCdXZMX0ZHc01jRk1TTDNzUllzSTFoVFNIcUVOTHFzeWxMeEp0RFRrYU51bnFBRnRWWVEtOUxPVlF1aHB5YS1abTF0MDVsVU1ScHJXMTU?oc=5",
       "publisher": "매일일보",
@@ -602,8 +618,16 @@
       "category": "general"
     },
     {
+      "title": "홍천 박시덕 농가, 전국 한우 경진대회 암송아지 부문 장려상 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03MDI4MkVISnBSREM3Zk56UDRYZ0V4ZmhUakVtQXhUVnZLeEdma2R1N0FBcVJaXzVHMnJSSGlhb1ExWm5Udl9MMjZDNW0zSFJxdzBSUVhvYXdRRUNNbi1xUmFDS1ppRXMxMkRrbzZ2UWs?oc=5",
+      "publisher": "신아일보",
+      "published": "2026-11-02T03:53:22+00:00",
+      "region": "강원특별자치도",
+      "category": "general"
+    },
+    {
       "title": "농협, ‘2026년 전국한우경진대회’ 성료… 영월 유대환 농가 ‘대통령상’ 영예 - 팜인사이트",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVkZIdW85M1FzWERrWGlPeGlNcloyZ01wS0FLbFd4QmVXR29rMzVTR29pRWJ6TE05S3pNU2hDYms3bEdCMUFCVmJuX3BRQVZrWXQ0blNpV1lPTXEzNXEzM2t3TFVTdFZuNGwwVjJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenJkSzFFZklOMTJHMU9CbVB5QWl0MU1fNG14ZEpIZVVZdTg2SWdtM25sVXNia3h3aVQwOTNJMzE5WkJ5dE43a3F0VGhRcnNnOWdVMU0wSWM3LS1Oakpzam1SOGVhSWp1R1VNZnhyd3l2elc0aEVYQWJlZTBTTzJkMnRDR181akgta29adkVmSzZQUTVOZmc?oc=5",
       "publisher": "팜인사이트",
       "published": "2026-11-02T02:30:00+00:00",
       "region": "강원특별자치도",
@@ -626,14 +650,6 @@
       "category": "general"
     },
     {
-      "title": "강원자치도, 2026년 전국한우경진대회 지자체 종합우승 - 영서신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vMmE1UEhEWloxRE14ajVCR2hxTUExZFVVZVZ2OFNneDRnMk5BNjAyeXVZZUVZOTgtazA3d3BZTTVXMFJtQVBJbk5lTHZLX2tZVU1lZWNHak1ERlpUNmZmY0VNek1iQWZjdnAw?oc=5",
-      "publisher": "영서신문",
-      "published": "2026-11-02T00:44:20+00:00",
-      "region": "강원특별자치도",
-      "category": "general"
-    },
-    {
       "title": "안동산림항공관리소, 대구광역시 산불진화 교육·훈련 실시 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZaFJ2el8waG1QbC1OcUtRczZtWVVMT19zQWhma3BaUzRBQnk5bWdhX3RkcExaa3VtMFc5RzRQSlJScVR2T1F4MFJXbjg2akc0MG11SC1UNHIwOFRLRXo5Q3FwMFgtLXd5Ql9objlsRzlTYlRw?oc=5",
       "publisher": "대한민국 정책브리핑",
@@ -642,27 +658,11 @@
       "category": "general"
     },
     {
-      "title": "제주축산농협, '양영기 민들레 축산 대표' 제22회 전국한우경진대회 유전체 유전능력 부문 우수상 수상 - 지금제주",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50SEx5SVNVRFQtWEx2TDlNTGJPbFpKci05cDRsYzVpY1p4dnNmRWxSMFR3d3FTUEkxdG9URHhwVTVwUFJfRjJobFB6U3hYSE1iTkRPc2ZwYnNSbHhLV2M0Ry1rQXJVU3lnMUYwQnFB?oc=5",
-      "publisher": "지금제주",
-      "published": "2026-11-01T14:45:56+00:00",
-      "region": "제주특별자치도",
-      "category": "general"
-    },
-    {
       "title": "대한민국 최고 한우에 강원 유대환 농가 암소 ‘영예’ - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SZEJ1bUlIdkd0OVNvd25BUHVwQTJraENPV2FyTExCdzhJX19ncWhHZklhSHlwOE1XVzMwaGFSN1RXRndfS05hU1hIa1FtSnJmekhRWFU4Sl9vazJOdnBDM1VmOUpNT1JhZ09nNQ?oc=5",
       "publisher": "농수축산신문",
       "published": "2026-11-01T09:31:01+00:00",
       "region": "강원특별자치도",
-      "category": "general"
-    },
-    {
-      "title": "피칭서 계약까지… 경콘진, 경기 스토리작가 창작소 비즈니스 데이 개최 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ydkdaby1zdW9xMTFFUWdDOHFrZzl3bU1pN2xLZHJLQ1NYV28tQ1hPemhVLVpJZ2ExZlp3QVFEQ0VQdWlzVHVoU3dhTEhmMGNQSEtrWDF4Q2VpaExWZzRaSWthYVQ?oc=5",
-      "publisher": "매일일보",
-      "published": "2026-11-01T05:43:39+00:00",
-      "region": "경기도",
       "category": "general"
     },
     {
@@ -698,14 +698,6 @@
       "category": "general"
     },
     {
-      "title": "강원도 전국한우경진대회 종합우승…영월 농가 그랜드챔피언 대통령상 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvcWFSWm9PRUFLRFBya0taOWJ3Xzk2QmNfRTdmVGxsX0kzaVdyWDQtZ0lFOUZBbmlzamZQZG9jUXFBY3dPQzZmd2k2cTJ4Z3d1UGV3OWNERnVCdw?oc=5",
-      "publisher": "파이낸셜뉴스",
-      "published": "2026-11-01T00:39:01+00:00",
-      "region": "강원특별자치도",
-      "category": "general"
-    },
-    {
       "title": "경기도, ‘2026년 전국한우경진대회’ 종합 2위…유전체·번식암소 최우수상 등 수상 - 팔당유역신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zM0JlektNWXJvN0E1cXBfMzVKNUZxS29TVTVQYlBLc0pPYnRuQS0xek05ajhOTnRTNVBlU0R1Xzh6ckJVZDJqWFBhcGdvTnI5WGFrc2ZVb0loYURxNVFsNzhobFhDT0Fjcjc4?oc=5",
       "publisher": "팔당유역신문",
@@ -719,14 +711,6 @@
       "publisher": "천지일보",
       "published": "2026-10-31T07:07:00+00:00",
       "region": "세종특별자치시",
-      "category": "general"
-    },
-    {
-      "title": "인천음악창작소, 지역 뮤지션 음원 5곡 발매…인천의 풍경과 추억 담아 - https://www.ppss.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pa05UWTdORU9aUEE1UDhwMC1EdnRyY3dnaW1Eci1wLXdLdndmWmE5Rld0Rzg0WGxXM3UxS0xhNXVOY01tUFd4YXNwWEo2RnUtZDJYQjdKMWc1Yk9YT1ZCVDVpZWE?oc=5",
-      "publisher": "https://www.ppss.kr/",
-      "published": "2026-10-31T00:09:00+00:00",
-      "region": "인천광역시",
       "category": "general"
     },
     {
@@ -746,19 +730,19 @@
       "category": "general"
     },
     {
-      "title": "인천시, 울산시와 수소·LNG 산업 상생협력… 친환경 에너지 생태계 다진다 - 중부일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sakJLOFI2VUhMQzRyaEQ2NU1GVGJ6Umc0RkIwVEdBc0x3Z0NjakJHbkFtaF9xdHA2WkdidWZWQlRSSUMwdDlBUmhnQmtVMW9jaDFBcVRDaFdTdEpKaUdXamtZTTNYcl9ZSWJ6TVJmSQ?oc=5",
-      "publisher": "중부일보",
-      "published": "2026-10-30T07:31:00+00:00",
-      "region": "울산광역시",
-      "category": "general"
-    },
-    {
       "title": "경기도, ‘2026년 전국한우경진대회’ 종합 준우승…우수한 한우 개량 성과 입증 - 뉴스 따옴",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYy12cmlUSFdmZWdKaTdmd2V6Q2UtX3ZWZkVqSUJxOEJ2WlNDQmhwVlZmS1J2V01LRkZWcGJnWXllaVBFZ2t3TEdwUnliZUhtcS1XRUktQlhBdXhlcUFfcURPMTB3eTI2c2JiR1hR0gFyQVVfeXFMTWlLZHQ5d3VuWHhPNms4SFlMOHh6RG13ZmZ3dW9ZZEt6LWV6RHJkUmowVXVSQV91aWdFTUl4QkxSRjZmSDJ3dHNRbEZ5QkpzeEJzVW1GUjlGWGZmMXM0SFNsbEdlX0NuN2N5Mmx0Wlo0VUNR?oc=5",
       "publisher": "뉴스 따옴",
       "published": "2026-10-30T07:01:15+00:00",
       "region": "경기도",
+      "category": "general"
+    },
+    {
+      "title": "강릉한복문화창작소 - 고향사랑기부제 위기브",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqMkRTYTNleFkwZnFmM1F0MUtvZlNUYnZlRFk0a01iemZoNFpsYVQtRW1wOGhGOFY3Z0h4VlQwenRRdFBwT0R2bWcxYzl0LWc0dXdKb19YTmRIcDJLcjVGRFNrdng?oc=5",
+      "publisher": "고향사랑기부제 위기브",
+      "published": "2026-10-30T07:00:00+00:00",
+      "region": "강원특별자치도",
       "category": "general"
     },
     {
@@ -783,6 +767,14 @@
       "publisher": "아시아뉴스전북",
       "published": "2026-10-30T03:26:37+00:00",
       "region": "전북특별자치도",
+      "category": "general"
+    },
+    {
+      "title": "치악산한우축제 나흘간 성황 - 축산경제신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQWJ2cE9DazBGWmhBLUhldXlXMWxnbGRfdHNObDkzQmI3V0Q2cXZxUEpQWUlNa183TFE1M3NUVU1wM3hZbGo2eUZWcERha05yY0NvbExfWElWZ3BIX0puS1pleWtPLVh6WUNaMEYtNzRGQdIBckFVX3lxTE9NQWJ2cE9DazBGWmhBLUhldXlXMWxnbGRfdHNObDkzQmI3V0Q2cXZxUEpQWUlNa183TFE1M3NUVU1wM3hZbGo2eUZWcERha05yY0NvbExfWElWZ3BIX0puS1pleWtPLVh6WUNaMEYtNzRGQQ?oc=5",
+      "publisher": "축산경제신문",
+      "published": "2026-10-30T03:20:00+00:00",
+      "region": "강원특별자치도",
       "category": "general"
     },
     {
@@ -954,14 +946,6 @@
       "category": "general"
     },
     {
-      "title": "포천시, 경기도 한우경진대회서 ‘대상’·‘종합우승’ 쾌거 - 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbnZjSEdDbzFZaDVMcjl1b0VxRGozVmRKOEk2NkhaY01aUUhUSkVhV0pFZE8xSGNlVVd5eF9pOEQtc1QzQUVFTW4tN0RwMzVrQ09EcDQ5VzE0cHpPX285RS11RVd4MUliYThrNw?oc=5",
-      "publisher": "일간투데이",
-      "published": "2026-10-27T19:46:54+00:00",
-      "region": "경기도",
-      "category": "general"
-    },
-    {
       "title": "제5기 대전시소 시민참여선정단 위촉 - 코리아플러스",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92MWFPMjRsaXhPR2U3UE1wTGtURmdvVDFoVlJ5VmgxUEhDS3VLS3cwNWd2OFRDS1dYQmxwNnZaY0Uzc1JTUDBId1ZHLV9RSFNyNFluXzllMXpyU28tYjFQd2tqc1BCZw?oc=5",
       "publisher": "코리아플러스",
@@ -986,14 +970,6 @@
       "category": "general"
     },
     {
-      "title": "포천 한우, 경기도 경진대회서 대상 수상 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRlpibjZwNmpDWEw1aU4zVFN1NlZZaVJ2dUYyZmw4eGtCdEJNeUpYejVXUHpxM3B5c3c5LXdsQ1dlSl9CeUpqU011cjc5NE5aX1JLSFZaTW5PVGRHOXlDdFFzMm1GSVBjdTFRb2Q4LWJtMGdGX0l4YkszSQ?oc=5",
-      "publisher": "프레시안",
-      "published": "2026-10-27T07:00:00+00:00",
-      "region": "경기도",
-      "category": "general"
-    },
-    {
       "title": "10월 주말은 서산으로! 서산한우축제 일정, 주변 가을 명소, 세액공제 재테크까지 한 번에 - 고향사랑기부제 위기브",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0telV6dGVjSnN1MWhFcF9Zei0xOWVKYVY1Y2ljTGhmSnJqUWRDNUJ0T2ZTLWpBTkxXS2FmT2VCVWhSbGc3NHVTMnpyZXlNcjBsN1NzeU5n?oc=5",
       "publisher": "고향사랑기부제 위기브",
@@ -1007,6 +983,14 @@
       "publisher": "충청매일",
       "published": "2026-10-27T06:10:18+00:00",
       "region": "대전광역시",
+      "category": "general"
+    },
+    {
+      "title": "포천 한우, 경기도 경진대회서 대상 수상 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRlpibjZwNmpDWEw1aU4zVFN1NlZZaVJ2dUYyZmw4eGtCdEJNeUpYejVXUHpxM3B5c3c5LXdsQ1dlSl9CeUpqU011cjc5NE5aX1JLSFZaTW5PVGRHOXlDdFFzMm1GSVBjdTFRb2Q4LWJtMGdGX0l4YkszSQ?oc=5",
+      "publisher": "프레시안",
+      "published": "2026-10-27T04:48:09+00:00",
+      "region": "경기도",
       "category": "general"
     },
     {
@@ -1042,6 +1026,14 @@
       "category": "general"
     },
     {
+      "title": "포천시, 경기도 한우경진대회서 `대상`·`종합우승` 쾌거 - 경기in",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBKdzliRmhUTHVnRTVlTV8wSnAzQ1Q1LUxmOHVwcHk1QU5EUHN6NU9mek5UV2ZXNHpPeGxhdlFOWTRidEE?oc=5",
+      "publisher": "경기in",
+      "published": "2026-10-27T01:44:00+00:00",
+      "region": "경기도",
+      "category": "general"
+    },
+    {
       "title": "한우협회·동물보호단체, 경기도 '축산동물복지국' 통합에 반발 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VRHdmQjNLTi14Rmx3NDlBempCQlRiN3lsd3RCSHJfenp2UG9Rek1LNWl6c05SNWpSTThmYkJwM3N5eEl2WWQ1NWhJbVpUWG0ydjNFUmFXUXM4UU0?oc=5",
       "publisher": "연합뉴스",
@@ -1061,8 +1053,24 @@
       "title": "기타 제작부터 밴드 합주까지…인천음악창작소, ESP 워크숍 개최 - 뉴스퀘스트",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pTmxlWkVGR2ZRb3VVU0c5a1dzemtoZ19wMDg4TjNuLTVQZTcxS3FjcU9xMTZacVJuaTRXLTh0OFVwYjRDeF9jMkc3ZGtHaUJlV0hrb1JrTU5RZjkzTXAyWkEyRXVUN1FUUHE1NUswZw?oc=5",
       "publisher": "뉴스퀘스트",
-      "published": "2026-10-24T00:00:00+00:00",
+      "published": "2026-10-24T07:00:00+00:00",
       "region": "인천광역시",
+      "category": "general"
+    },
+    {
+      "title": "“새 톱밥으로 교체”…농협 수도권미트센터, 예산 한우농가서 일손 도와 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9acnlodHhrdkNVUjczQTI3c0dHdTBUWFVDSmF4WjNwb1pudEdCWDhCYXVqYjNqZDBfVE9jNkxmcldCeUNLbVdfd3o1amd6X1lPemw5RUFvZjFaQQ?oc=5",
+      "publisher": "농민신문",
+      "published": "2026-10-23T10:07:00+00:00",
+      "region": "충청남도",
+      "category": "general"
+    },
+    {
+      "title": "'강원축산물 大축제' 개최… 한돈·한우 최대 40% 할인 - 한돈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ScTQ1VVBpUzd1d0VUQ3F0cm5QbXhUVlk1SHo4ek0yUTcwSkg3UVR3LWpZYWNYcTU2bHRJNURZZE5WQzVXTXhGdVprdFRDSzdWeUkwTG9mZGhuTTJ6a19ISDJ4TDc3RU5j0gFsQVVfeXFMTlJ3M1N2VWtqaEM3MzhiRWFMbTVNVDRwMUlqcU5sVU9lMzh1UUdoZzY5eTFjbVNEbENIeFM5VEcxOEwzUzh4alpvODkzNUdTR2YwNmNVcnNyRThPMWdvcGdNZ3c5NUdfYzQ0UDdD?oc=5",
+      "publisher": "한돈뉴스",
+      "published": "2026-10-23T07:00:00+00:00",
+      "region": "강원특별자치도",
       "category": "general"
     },
     {
@@ -1079,30 +1087,6 @@
       "publisher": "국제뉴스",
       "published": "2026-10-23T07:00:00+00:00",
       "region": "충청남도",
-      "category": "general"
-    },
-    {
-      "title": "한우 꽃등심·스테이크·불고기 먹고 SNS 인증하면…외국인 관광객에 3만원 지원 - 뉴스21 통신",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QaXdJOWxaVHlGT2ZKeUVNZE15MUdsLThXLXdBSTJNZVg2MWw4OTU3ZGtVQmpoSUEzRGdkUDkyRF83WlB1QnhRb05icFdJTU5vdFB5dVR3?oc=5",
-      "publisher": "뉴스21 통신",
-      "published": "2026-10-23T02:53:46+00:00",
-      "region": "부산광역시",
-      "category": "general"
-    },
-    {
-      "title": "인천시, 28~29일 '2026 농특산물 인천장터' 개장…강화 쌀·한우 최대 30% 할인 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4UnN3Uks0cWJBSlN1Z1dFNU5UVEJNeHlkRGZuYWxHcmp0YXZrUndQMF9ETE5nU2t2bFlvT2hVWGJIR0pvZVNWX2NnZnpiRWlkcHhGVFBxUndOeGpvV0h4eERyVlo?oc=5",
-      "publisher": "중도일보",
-      "published": "2026-10-23T00:47:18+00:00",
-      "region": "인천광역시",
-      "category": "general"
-    },
-    {
-      "title": "부산 찾은 외국인 관광객, 한우 먹고 식비 최대 3만 원 지원받는다 - 복지TV부울경방송",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03a1RRckE5cFBMeldRQ2tfVnJDa1RuVWNBYmUweUlBVjRqZVdvbVVjOFI0cWVMSVg1WEc3YzlTc3piSlNXT1hNZXpZSm80OExYYXF1VS1BVjBnYmhVbFlGS2E3ODBvOVpQ?oc=5",
-      "publisher": "복지TV부울경방송",
-      "published": "2026-10-22T22:46:03+00:00",
-      "region": "부산광역시",
       "category": "general"
     }
   ],
